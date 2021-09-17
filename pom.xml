@@ -19,7 +19,7 @@
 
 		<sonar.projectKey>pucpr</sonar.projectKey>
 		<sonar.host.url>http://ip172-18-0-72-c51tb8vnjsv0009imaqg-9000.direct.labs.play-with-docker.com</sonar.host.url>
-		<sonar.login>pucpr</sonar.login>
+		<sonar.login>51441727c1b3a750d21afeeb998fc0fffb4ea796</sonar.login>
 
 	</properties>
 
